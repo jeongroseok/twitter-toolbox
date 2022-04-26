@@ -4,7 +4,7 @@ from time import time
 import tweepy
 
 import config
-from utils import check_hangul, process_access_token
+from utils import process_access_token
 
 
 def main():
